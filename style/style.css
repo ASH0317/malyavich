@@ -16,7 +16,8 @@
 body{
     margin: 0;
     font-family: 'Kornilow';
-    background: radial-gradient(circle, rgba(67,217,182,0.7157426253609036) 35%, rgba(49,205,236,0.7557582689368206) 100%);
+    background: rgb(164,219,240);
+    background: radial-gradient(circle, rgba(164,219,240,0.6557191710541214) 0%, rgba(112,220,233,0.6567721601845562) 100%);
 }
 *{
     -webkit-box-sizing: border-box;
@@ -216,7 +217,7 @@ ul li{
      padding-top: 110px;
      padding-bottom: 80px;
      color: #fff;
-     background-color:#CC99FF;
+     background-color:#DB7093;
    width: 750px;
    position: absolute;
    top: 151px;

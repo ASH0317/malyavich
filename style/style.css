@@ -387,7 +387,7 @@ ul li{
     margin-bottom: 0px;
     background-color: #000;
     text-align: center;
-    margin-top: -3px;
+    margin-top: 0px;
     padding-bottom: 15px;
   }
 @media (max-height: 762px){
@@ -503,6 +503,9 @@ ul li{
     }
     .pat1{
         display: none;
+    }
+    .history{
+        margin-bottom: 0;
     }
 }
 @media (max-width: 970px){

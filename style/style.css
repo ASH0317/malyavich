@@ -16,7 +16,7 @@
 body{
     margin: 0;
     font-family: 'Kornilow';
-    background: radial-gradient(circle, rgba(67,67,217,0.7157426253609036) 35%, rgba(49,205,236,0.7557582689368206) 100%);
+    background: radial-gradient(circle, rgba(67,217,182,0.7157426253609036) 35%, rgba(49,205,236,0.7557582689368206) 100%);
 }
 *{
     -webkit-box-sizing: border-box;

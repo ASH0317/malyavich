@@ -17,7 +17,8 @@ body{
     margin: 0;
     font-family: 'Kornilow';
     background: rgb(164,219,240);
-    background: radial-gradient(circle, rgba(164,219,240,0.6557191710541214) 0%, rgba(112,220,233,0.6567721601845562) 100%);
+    background: -o-radial-gradient(circle, rgba(164,219,240,0.6557191710541214) 0%, rgba(112,220,233,0.6567721601845562) 100%), url(../img/pngwing.com.png);
+    background: radial-gradient(circle, rgba(164,219,240,0.6557191710541214) 0%, rgba(112,220,233,0.6567721601845562) 100%), url(../img/pngwing.com.png);
 }
 *{
     -webkit-box-sizing: border-box;
@@ -242,7 +243,7 @@ ul li{
     color: #fff;
 }
 .banner{
-    background-color:#6495ED;
+    background-color:#00BFFF;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
